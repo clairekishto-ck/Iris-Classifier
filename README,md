@@ -1,2 +1,7 @@
 # Iris Classifier
 A machine learning project to classify Iris flowers using scikit-learn.
+## Setup Instructions
+1. Clone this repository
+2. Ensure you have Python installed
+3. Install the required dependencies:'''bash
+pip install scikit-learn matplotlib joblib ipykernel
